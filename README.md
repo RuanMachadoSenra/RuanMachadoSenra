@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá! Eu sou Ruan Machado ✋
 
-<!--
-**RuanMachadoSenra/RuanMachadoSenra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Contato](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](ruanmsenra@outlook.com)
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-machado-35340a28a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ruansenra7/)
 
-Here are some ideas to get you started:
+![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanmachado&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que eu uso
+
+<div styLe="display: inline_block"><br/>
+<img aLign="center" aLt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img aLign="center" aLt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img aLign="center" aLt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img aLign="center" aLt="SQL" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+
+
