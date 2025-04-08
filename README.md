@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá! Eu sou Ruan Machado ✋
+# Olá! Eu sou Ruan Machado ✋
 Me chamo Ruan Machado Senra, tenho 25 anos e sou do estado do Rio de Janeiro . Atualmente, estou cursando Engenharia da Computação na Universidade Veiga de Alemida (UVA).
 
 
