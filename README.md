@@ -1,5 +1,5 @@
 # Olá! Eu sou Ruan Machado ✋
-Me chamo Ruan Machado Senra, tenho 25 anos e sou do estado do Rio de Janeiro . Atualmente, estou cursando Engenharia da Computação na Universidade Veiga de Alemida (UVA).
+Me chamo Ruan Machado Senra, tenho 26 anos e sou do estado do Rio de Janeiro . Atualmente, estou cursando Engenharia da Computação na Universidade Veiga de Alemida (UVA).
 
 
 [![Contato](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](ruanmsenra@outlook.com)
