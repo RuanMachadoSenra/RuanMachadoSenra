@@ -61,7 +61,3 @@ Apaixonado por sistemas embarcados, redes de computadores e boas práticas de so
 
 ---
 
-## 📊 GitHub Stats
-
-![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanmachado&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanmachado&layout=compact&theme=radical)
